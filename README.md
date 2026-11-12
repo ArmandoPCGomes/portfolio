@@ -1,2 +1,2 @@
 # portfolio
-Portfólio pessoal desenvolvido para apresentar os meus projectos, competências e conhecimentos na área de desenvolvimento web e programação. Criado com HTML, CSS e JavaScript.
+Portfólio pessoal de desenvolvimento web, criado para apresentar os meus projectos, competências e evolução na programação, utilizando HTML, CSS e JavaScript.
